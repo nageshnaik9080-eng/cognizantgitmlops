@@ -9,3 +9,4 @@ src/azuremlapp/__init__.py
 src/azuremlapp/resources/__init__.py
 src/azuremlapp/utils/__init__.py
 src/azuremlapp/utils/fraud_train.py
+src/azuremlapp/utils/score.py
